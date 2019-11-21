@@ -1,4 +1,5 @@
-# chat-client
+# chat-frontend
+Socket.io Chat - Frontend made with Vue
 
 ## Project setup
 ```
